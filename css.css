@@ -16,3 +16,7 @@ table {
     float: right;
     border: 1px solid black;
 }
+.alcim {
+    color: aliceblue;
+    background-color: crimson;
+}
