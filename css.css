@@ -6,5 +6,13 @@ h2, a{
     color: crimson;
 }
 table {
-    
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+.kep2 {
+    width: 230px;
+    height: 153px;
+    float: right;
+    border: 1px solid black;
 }
